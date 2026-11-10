@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <cmath>
 #include <omp.h>
 #include <random>
 
